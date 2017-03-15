@@ -2,7 +2,9 @@
 revert() {
 xset dpms 0 0 0
 }
+PNGPATH=~/Pictures/Gentle_Stream_1366x768.png
 trap revert SIGHUP SIGINT SIGTERM
 xset +dpms dpms 5 5 5
-i3lock -n -c $1
+
+i3lock -n -i $PNGPATH
 revert
