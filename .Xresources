@@ -1,0 +1,32 @@
+xft*dpi: 96
+xft*autohint: 0
+xft*antialias: 1
+xft*hinting: 1
+xft*hintstyle: hintfull
+xft*lcdfilter: lcddefault
+xft*rgba: rgb
+
+rofi.color-enabled:	true
+rofi.color-normal:	#ffffff,#525d76,#f5f5f5,#5294e2,#ffffff
+rofi.color-urgent:	#ffffff,#dc322f,#f5f5f5,#5294e2,#dc322f
+rofi.color-active:	#ffffff,#c2cad0,#f5f5f5,#5294e2,#c2cad0
+rofi.color-window:	#ffffff,#f5f5f5
+rofi.separator-style:	solid
+rofi.lines: 1
+rofi.eh: 1
+rofi.width: 50
+rofi.padding: 50
+rofi.bw: 0
+rofi.font: Droid Sans 14
+
+urxvt*font: xft:DroidSansMono:size=10
+urxvt*scrollTtyOutput: 0
+urxvt*scrollWithBuffer: 1
+urxvt*scrollTtyKeypress: 1
+urxvt*letterSpace: 0
+urxvt*scrollBar: 0
+urxvt*background: #2f343f
+urxvt*foreground: #f3f4f5
+urxvt*transparent: 1
+urxvt*shading: 10
+urxvt*depth: 32
