@@ -19,7 +19,7 @@ rofi.padding: 50
 rofi.bw: 0
 rofi.font: Droid Sans 14
 
-urxvt*font: xft:DroidSansMono:size=10
+urxvt*font: xft:DroidSansMono:size=12
 urxvt*scrollTtyOutput: 0
 urxvt*scrollWithBuffer: 1
 urxvt*scrollTtyKeypress: 1
